@@ -1,0 +1,19 @@
+document.getElementById('content').style.display = 'block'; 
+}
+
+
+
+/* nouton debut
+<div id="a_masquer">
+   Contenu de la div en question.
+</div>
+ 
+<input type="button" value="Masquer" onclick="masquer_div('a_masquer');" />
+
+
+*/
+
+
+
+
+
